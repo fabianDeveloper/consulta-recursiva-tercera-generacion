@@ -1,0 +1,5 @@
+-- CONSULTAR LA TERCERA GENERACIÓN DE LUIS
+SELECT * FROM tercera_generacion('luis')
+
+-- CONSULTAR LA TERCERA GENERACIÓN DE WILFRIDO
+SELECT * FROM tercera_generacion('wilfrido')
